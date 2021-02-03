@@ -1,0 +1,3 @@
+function ghostBusters(building) {
+
+}
