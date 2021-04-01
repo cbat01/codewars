@@ -1,4 +1,3 @@
-// https://www.codewars.com/kata/581f4ac139dc423f04000b99
 function transposeTwoStrings(arr){
     let len = arr[0].length - arr[1].length
     if(len > 0) {
